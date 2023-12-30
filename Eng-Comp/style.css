@@ -1,0 +1,99 @@
+/* Reset básico para remover estilos padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #333;
+  }
+  
+  form {
+    width: 90%;
+    max-width: 500px;
+    background: #fff;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #4a69bd;
+    font-size: 1.6em;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #4a69bd;
+    font-size: 1.6em;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-top: 15px;
+    display: block;
+    color: #333;
+  }
+  
+  input[type='text'],
+  select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type='text']:focus,
+  select:focus {
+    border-color: #4a69bd;
+    outline: none;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: #4a69bd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #3b5286;
+  }
+  
+  .editablediv {
+    background-color: #f1f1f1;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  fieldset {
+    margin-top: 15px;
+    border: none;
+  }
+  
+  @media screen and (max-width: 600px) {
+    form {
+      width: 100%;
+      margin: 10px;
+    }
+  }
+  

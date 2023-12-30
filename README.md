@@ -1,1 +1,21 @@
-# insper-entrance-exam-calculator
+## Calculadora de Média - Vestibular Insper 2024
+
+Calculadora de média desenvolvida com o intuito de facilitar o cálculo das notas finais do Vestibular do Insper (2024). Além disso, a calculadora permite a simulação de notas na segunda fase, o que possibilita aos vestibulandos uma maior noção de quanto precisam tirar para atingir uma boa média final no vestibular.
+
+A ideia é que a calculadora seja simples, mas intuitiva e estilizada, tal como apresentado no resultado a seguir _(novas iterações ainda serão feitas)_:
+
+![Admnistracao-Economia-Direito-Insper](./Business-Eco-Law/calculadora-insper-adm-eco-dir.png)
+
+![Admnistracao-Engenharias-Computacao-Insper](./Eng-Comp/calculadora-insper-eng-ccomp.png)
+
+Para testar a calculadora, [Clique aqui](https://insideuniversity.com.br/calculadora-de-media-vestibular-insper/)
+
+´´´
+Copyright (c) 2023 by Lister Ogusuku Ribeiro (https://codepen.io/Lister-Ogusuku-Ribeiro-the-bashful/pen/YzgXBqj)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+´´´
